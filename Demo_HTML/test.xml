@@ -1,0 +1,10 @@
+<site domain="news.zing.vn" type="news">
+        <expressions>
+            <expression type="xpath" urlPattern="" parser="vng.newsreader.parser.lib.HtmlCleaner">
+                <title>.//section[@class='main']//h1[@class='the-article-title']</title>
+                <description>.//section[@class='main']//p[@class='the-article-summary']</description>
+                <tag>.//section[@class='main']//p[@class='the-article-tags']</tag>
+                <content>.//section[@class='main']//div[@class='the-article-body']</content>
+            </expression>
+        </expressions>
+    </site>

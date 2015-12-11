@@ -10,13 +10,6 @@ package demo_html;
  *
  * @author PhamChiHung
  */
-public class Demo_HTML {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class Cleaner1 {
     
 }

@@ -1,0 +1,27 @@
+<students>
+    <student rollNumber="S0101">
+        <name>Nguyen Van A</name>
+        <address>Ha Noi</address>
+        <age>21</age>
+    </student>
+    <student rollNumber="S0102">
+        <name>Tran Thi B</name>
+        <address>Ninh Binh</address>
+        <age>22</age>
+    </student>
+    <student rollNumber="S0103">
+        <name>Ly Thanh C</name>
+        <address>Phu Tho</address>
+        <age>20</age>
+    </student>
+    <student rollNumber="S0104">
+        <name>Phung Bao D</name>
+        <address>Yen Bai</address>
+        <age>19</age>
+    </student>
+    <student rollNumber="S0105">
+        <name>Nguyen Van E</name>
+        <address>Hoa Binh</address>
+        <age>20</age>
+    </student>
+</students>
